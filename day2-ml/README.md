@@ -1,6 +1,6 @@
 # 🍕 AI Product Recommendation Engine for a Restaurant Chain
 
-> **Name:** Syed Usman Ali
+> **Name:** Syed Usman Ali<br>
 > **Member 5 Component**: Zero-Shot Natural Language Menu Recommendation
 > **Group:** 37
 > **Primary Technology:** Hugging Face Transformers
